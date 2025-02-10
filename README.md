@@ -4,12 +4,12 @@
 Sempre fui apaixonado por programação e agora, com uma visão mais madura, estou transformando essa paixão em carreira.
 
 ## Atualmente tenho experiências com:
-[![](https://skillicons.dev/icons?i=html,css,javascript)]
+![](https://skillicons.dev/icons?i=html,css,javascript)
 
 ## Linguagens que estou aprendendo: (Além das de cima😁)
 ![](https://skillicons.dev/icons?i=nodejs,)
 
 ## Onde me achar além daqui? :mag_right:
-[![](https://skillicons.dev/icons?i=instagram)](instagram.com/allesonsales)  [](https://skillicons.dev/icons?i=linkedin)](linkedin.com/allesonsales)
+[![](https://skillicons.dev/icons?i=instagram)](instagram.com/allesonsales)  ![](https://skillicons.dev/icons?i=linkedin)](linkedin.com/allesonsales)
 
 ### E aí bora codar juntos? 😊
