@@ -1,6 +1,6 @@
-# Olá, como tá no perfil me chamo Alleson!👋 ☺️
+# Olá, como tá no perfil, me chamo Alleson!👋 ☺️
 
-# Sou um profissional com mais de 10 anos de experiência em comunicação e formado em Design Digital. Em 2024, decidi mergulhar no universo do desenvolvimento Front-End e estou focado em aprimorar minhas habilidades em JavaScript, com destaque para React, Node.js, TypeScript, HTML e CSS.
+## Sou um profissional com mais de 10 anos de experiência em comunicação e formado em Design Digital. Em 2024, decidi mergulhar no universo do desenvolvimento Front-End e estou focado em aprimorar minhas habilidades em JavaScript, com destaque para React, Node.js, TypeScript, HTML e CSS.
 Sempre fui apaixonado por programação e agora, com uma visão mais madura, estou transformando essa paixão em carreira.
 
 ## Atualmente tenho experiências com:
