@@ -15,3 +15,4 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](instagram.com/allesonsales)  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](linkedin.com/allesonsales)  <a href="mailto:allesonsales@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ### E aí bora codar juntos? 😊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allesonsales)](https://github.com/anuraghazra/github-readme-stats)
